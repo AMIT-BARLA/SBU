@@ -1,2 +1,2 @@
 # SBU
-Beginner Level lab programming
+Beginner Level c programming
